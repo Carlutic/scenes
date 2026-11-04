@@ -23,19 +23,19 @@
         "props": [
             {
                 "pmx": "喷泉.pmx",
-                "scale": 0.15,
+                "scale": 0.08,
                 "position": [
-                    -0.37,
-                    10.75,
-                    45.0
+                    -0.2,
+                    5.74,
+                    50.0
                 ]
             }
         ],
-        "scale": 0.15,
+        "scale": 0.08,
         "position": [
-            -0.37,
-            10.75,
-            45.0
+            -0.2,
+            5.74,
+            50.0
         ],
         "image": "Covers/akademiya.png"
     }
