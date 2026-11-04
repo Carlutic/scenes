@@ -1,0 +1,42 @@
+[
+    {
+        "key": "march7th",
+        "name": "三月七的房间",
+        "subtitle": "崩坏：星穹铁道",
+        "directory": "scenes/march7th",
+        "pmx": "Stage0514.pmx",
+        "props": [],
+        "scale": 0.08,
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "image": "Covers/march7th.png"
+    },
+    {
+        "key": "akademiya",
+        "name": "教令院",
+        "subtitle": "原神 · 须弥",
+        "directory": "scenes/akademiya",
+        "pmx": "教令院.pmx",
+        "props": [
+            {
+                "pmx": "喷泉.pmx",
+                "scale": 0.06,
+                "position": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "scale": 0.06,
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "image": "Covers/akademiya.png"
+    }
+]
